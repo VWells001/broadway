@@ -27,13 +27,17 @@ p {
     font-weight: normal;
 }
 
-??? {
-  font-size: 23px;
+.footer {
+  text-align: left;
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+}
+
+.bar{
     color: white;
 }
 
-footer {
-    font-size: 11px;
-    color: white;
-    background-color: dimgray;
+.menu2 {
+    font-size: 18px;
 }
